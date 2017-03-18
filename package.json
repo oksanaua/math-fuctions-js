@@ -1,0 +1,32 @@
+{
+  "name": "math-fuctions-js",
+  "version": "1.0.0",
+  "description": "Oksana's first javascript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksanaua/math-fuctions-js.git"
+  },
+  "author": "Oksana S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksanaua/math-fuctions-js/issues"
+  },
+  "homepage": "https://github.com/oksanaua/math-fuctions-js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^4.1.0",
+    "gulp-util": "^3.0.8",
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^3.2.0",
+    "run-sequence": "^1.2.2",
+    "should": "^11.2.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "indent": 2,
+  "white": true,
+  "node": true,
+  "validthis": true,
+  "esnext": true,
+  "moz": true,
+  "undef": true,
+  "unused": false,
+  "-W058": true,
+  "-W014": true,
+  "expr": true,
+
+
+  "globals"   : {
+    /* MOCHA */
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "xit"        : false,
+    "afterEach"  : false
+  }
+}
